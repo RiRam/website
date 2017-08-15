@@ -1,0 +1,6 @@
+---
+title: "Press"
+date: "2017-08-15"
+---
+
+* [Summer school data science research could trigger real world changes](https://www.microsoft.com/en-us/research/blog/summer-school-data-science-research-trigger-real-world-changes/) (August 2017)

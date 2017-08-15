@@ -1,0 +1,10 @@
+---
+title: Hello World!
+author: Erica Ram
+date: '2017-08-15'
+slug: hello-world
+categories: []
+tags: [hello world, r]
+---
+
+Hello world!
