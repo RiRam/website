@@ -9,7 +9,7 @@ tags: []
 
 This past weekend, the 2017 [Richard Tapia Celebration of Diversity in Computing Conference](http://tapiaconference.org/) took place in Atlanta, GA at the Hyatt Regency Atlanta. 
 
-My [Microsoft DS3](https://ds3.research.microsoft.com/) 2016 teammate [Louise Y. Lai](https://twitter.com/LouiseYLai) and I presented our poster on our project *Airbrb: Predicting Loyalty*. The poster session was held Thursday night for two hours, and for those two hours we had a continuous flow of interested people asking us about our project, much to our delight.
+My [Microsoft DS3](https://ds3.research.microsoft.com/) 2016 teammate [Louise Y. Lai](https://twitter.com/LouiseYLai) and I presented our [poster](../../../../projects/airbrb_poster_tapia2017.pdf) on our project *Airbrb: Predicting Loyalty*. The poster session was held Thursday night for two hours, and for those two hours we had a continuous flow of interested people asking us about our project, much to our delight.
 
 At the closing banquet, we were awarded 3rd place in the poster competition.
 
