@@ -6,10 +6,20 @@
     <description>Recent content on Erica Ram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2017 ACM Richard Tapia Celebration of Diversity in Computing Conference</title>
+      <link>/2017/09/28/tapia-2017/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/28/tapia-2017/</guid>
+      <description>This past weekend, the 2017 Richard Tapia Celebration of Diversity in Computing Conference took place in Atlanta, GA at the Hyatt Regency Atlanta.
+My Microsoft DS3 2016 teammate Louise Y. Lai and I presented our poster on our project Airbrb: Predicting Loyalty. The poster session was held Thursday night for two hours, and for those two hours we had a continuous flow of interested people asking us about our project, much to our delight.</description>
+    </item>
     
     <item>
       <title>Goals</title>
