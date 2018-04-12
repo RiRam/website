@@ -26,7 +26,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	
 [[menu.main]]
 	name = "Resume"
-	url = "/EricaRam_Resume_2017.pdf"
+	url = "/EricaRam_Resume_2018.pdf"
 	
 	
 [params]
