@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disneypi on Erica Ram</title>
+    <link>/tags/disneypi/</link>
+    <description>Recent content in Disneypi on Erica Ram</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/disneypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day One: Disney Beginnings</title>
+      <link>/2018/05/22/day-one-disney-beginnings/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/22/day-one-disney-beginnings/</guid>
+      <description>Today was my first day as a Disney Professional Intern. I attended Disney Beginnings at the Walt Disney Studio Lot in Burbank, CA.
+All the interns gathered in Legends Plaza, and then proceeded to a conference room in the Frank G. Wells building. The presentation went over Disney heritage, information about organizational structure, what will be expected of us as interns, and an overview of how to use the online hub.</description>
+    </item>
+    
+  </channel>
+</rss>

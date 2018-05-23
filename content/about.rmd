@@ -5,4 +5,6 @@ date: "2017-08-15"
 
 Hello! My name is Erica Ram.
 
-I graduated with a Bachelor of Science in Computer Science, Mathematics minor from [Adelphi University](https://www.adelphi.edu/) in May 2016. I am currently a first year PhD student at [University of Alabama in Huntsville](https://www.uah.edu/).
+I graduated with a Bachelor of Science in Computer Science, Mathematics minor from [Adelphi University](https://www.adelphi.edu/) in May 2016. I am currently a PhD student at [University of Alabama in Huntsville](https://www.uah.edu/).
+
+For Summer 2018 I am a Disney Professional Intern with [Disney Consumer Products and Interactive Media](https://dcpi.disney.com/) in Glendale, CA.
