@@ -1,0 +1,17 @@
+---
+title: 'Grace Hopper Celebration 2018'
+author: ~
+date: '2018-09-26'
+slug: ghc-2018
+categories: []
+tags: [GHC]
+description: 'A first-timer at GHC'
+---
+
+I'm here in Houston, TX attending the [Grace Hopper Celebration](https://ghc.anitab.org/) for the first time!
+
+It's exhilarating to be finally attending, I've wanted to go for years but the scheduling just didn't work out. Last year, I got my internship with The Walt Disney Company for Summer 2018 through the [Resume Database](https://ghc.anitab.org/resume-database/).
+
+![Spotlight picture from DisneyTech](../../../../pictures/ghchire.png)
+
+

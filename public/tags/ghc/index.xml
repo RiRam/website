@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghc on Erica Ram</title>
+    <link>/tags/ghc/</link>
+    <description>Recent content in Ghc on Erica Ram</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ghc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grace Hopper Celebration 2018</title>
+      <link>/2018/09/26/ghc-2018/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/26/ghc-2018/</guid>
+      <description>I’m here in Houston, TX attending the Grace Hopper Celebration for the first time!
+It’s exhilarating to be finally attending, I’ve wanted to go for years but the scheduling just didn’t work out. Last year, I got my internship with The Walt Disney Company for Summer 2018 through the Resume Database.
+Spotlight picture from DisneyTech
+</description>
+    </item>
+    
+  </channel>
+</rss>
